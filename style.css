@@ -13,7 +13,7 @@ body {
     display: flex;
     align-items: center;
     background-color: hsl(30, 54%, 90%);
-    min-height: 240vh;
+    min-height: 170vh;
     font-family: 'Outfit', sans-serif;
     font-size: 14px;
     color: hsl(30, 10%, 34%);
